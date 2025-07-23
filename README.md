@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mihir L. Agrawal</h1>
 <h3 align="center">A passionate computer science student from India</h3>
 
-- 🔭 I’m currently working on [Online Compiler Api](https://documenter.getpostman.com/view/22382845/UzXNTcZf)
-
-- 🌱 I’m currently learning **Express js**
-
-- 💬 Ask me about **Php and Nodejs**
+- I'm currently pursuing a Master's in Computer Science and Engineering from IIT Guwahati (2027 batch)
+   
+- 🌱 I’m currently learning **Advanced Data Structures**
 
 - 📫 How to reach me **mihiragrawal022@gmail.com**
-
-- ⚡ Fun fact **I think i can make you smile**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
